@@ -100,4 +100,3 @@ Cкрипт наполнения данными: `shipping_status_dml.sql`
 | profit | public.shipping_info(payment_amount),  public.shipping_agreement(agreement_commission) | итоговый доход компании с доставки |
 
 Скрипт создания представления: `shipping_datamart_view.sql`  
-
